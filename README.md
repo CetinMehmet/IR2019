@@ -1,8 +1,6 @@
 Code for Information Retrieval Course at VU Amsterdam 2019
 ==========================================================
 
-**TO BE UPDATED**
-
 These are six assignments with introductory code and explanations in the form of
 [IPython Notebooks](http://ipython.org/notebook.html) created by Paul Groth and
 derived from exercises produced by Luís F. Simões for [VU Collective Intelligence
